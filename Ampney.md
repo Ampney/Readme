@@ -47,13 +47,12 @@ flipping tortillas. I know I can do it. My girlfriend disagrees.
 
 ### 🧰 Languages and Tools
 
-![HTML5](https://img.shields.io/badge/HTML5-black??style=for-the-badge&logo=html5)&nbsp;&nbsp;
-![CSS3](https://img.shields.io/badge/CSS3-black??style=for-the-badge&logo=css3)&nbsp;&nbsp;
+![HTML5](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5)&nbsp;&nbsp;
+![CSS3](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3)&nbsp;&nbsp;
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-black?style=for-the-badge&logo=tailwindcss)&nbsp;&nbsp;
 ![SASS](https://img.shields.io/badge/SASS-black?style=for-the-badge&logo=sass)&nbsp;&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript&style=javascript)&nbsp;&nbsp;
-![Git](https://img.shields.io/badge/-git-black?logo=git&style=git)&nbsp;&nbsp;
-![Github](https://img.shields.io/badge/-github-black?logo=git&style=github)&nbsp;&nbsp;
+![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)&nbsp;&nbsp;
+![Git](https://img.shields.io/badge/git-black?style=for-the-badge&logo=git)&nbsp;&nbsp;
 ![Styled Components](https://img.shields.io/badge/-styledcomponents-black?logo=styledcomponents&style=styled-components)&nbsp;&nbsp;
 ![React](https://img.shields.io/badge/-React-black?logo=react&style=react)&nbsp;&nbsp;
 ![React](https://img.shields.io/badge/-Styled-components-black?logo=react&style=react)&nbsp;&nbsp;
