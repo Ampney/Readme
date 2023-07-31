@@ -5,7 +5,7 @@
 
 -------
 
-🔭 **I’m currently: surpassing Elon Musk, freelancing (for real though, I love starting stuff from scratch and fresh ideas).
+🔭 I’m currently: surpassing Elon Musk, freelancing (for real though, I love starting stuff from scratch and fresh ideas).
 
 🌱 **I’m currently learning**: cool stuff as always, right now I'm obsessed with **Gatsby**, **React**, **TypeScript**.
 
@@ -23,7 +23,7 @@ flipping tortillas. I know I can do it. My girlfriend disagrees.
   <img src="https://img.shields.io/badge/linkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=ffffff" alt="LinkedIn" />
 </a>
 
-</a> -->
+</a>
 <a href="https://twitter.com/ampney_banks" target="_blank" title="Twitter">
   <img src="https://img.shields.io/badge/twitter-1da1f2?style=for-the-badge&logo=twitter&logoColor=ffffff" alt="Twitter" />
 </a>
@@ -49,13 +49,14 @@ flipping tortillas. I know I can do it. My girlfriend disagrees.
 
 ![HTML5](https://img.shields.io/badge/-HTML5-black?logo=html5&style=html5)&nbsp;&nbsp;
 ![CSS3](https://img.shields.io/badge/-CSS3-black?logo=css3&style=css3)&nbsp;&nbsp;
-![TailwindCSS](https://img.shields.io/badge/with%20a%20logo-grey?style=for-the-badge&logo=tailwindcss)&nbsp;&nbsp;
+![TailwindCSS](https://img.shields.io/badge/TailwindCSSlogo-black?style=for-the-badge&logo=tailwindcss)&nbsp;&nbsp;
 ![SASS](https://img.shields.io/badge/with%20a%20logo-grey?style=for-the-badge&logo=sass)&nbsp;&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript&style=javascript)&nbsp;&nbsp;
 ![Git](https://img.shields.io/badge/-git-black?logo=git&style=git)&nbsp;&nbsp;
-![Github](https://img.shields.io/badge/-git-black?logo=git&style=github)&nbsp;&nbsp;
+![Github](https://img.shields.io/badge/-github-black?logo=git&style=github)&nbsp;&nbsp;
 ![Styled Components](https://img.shields.io/badge/-styledcomponents-black?logo=styledcomponents&style=styled-components)&nbsp;&nbsp;
 ![React](https://img.shields.io/badge/-React-black?logo=react&style=react)&nbsp;&nbsp;
+![React](https://img.shields.io/badge/-Styled-components-black?logo=react&style=react)&nbsp;&nbsp;
 ![Gatsby](https://img.shields.io/badge/with%20a%20logo-grey?style=for-the-badge&logo=gatsby)&nbsp;&nbsp;
 ![GraphQl](https://img.shields.io/badge/with%20a%20logo-grey?style=for-the-badge&logo=graphql)&nbsp;&nbsp;
 
