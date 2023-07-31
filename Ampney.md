@@ -49,7 +49,7 @@ flipping tortillas. I know I can do it. My girlfriend disagrees.
 
 ![HTML5](https://img.shields.io/badge/-HTML5-black?logo=html5&style=html5)&nbsp;&nbsp;
 ![CSS3](https://img.shields.io/badge/-CSS3-black?logo=css3&style=css3)&nbsp;&nbsp;
-![TailwindCSS](https://img.shields.io/badge/TailwindCSSlogo-black?style=for-the-badge&logo=tailwindcss)&nbsp;&nbsp;
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-black?style=for-the-badge&logo=tailwindcss)&nbsp;&nbsp;
 ![SASS](https://img.shields.io/badge/with%20a%20logo-grey?style=for-the-badge&logo=sass)&nbsp;&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript&style=javascript)&nbsp;&nbsp;
 ![Git](https://img.shields.io/badge/-git-black?logo=git&style=git)&nbsp;&nbsp;
