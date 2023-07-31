@@ -53,11 +53,10 @@ flipping tortillas. I know I can do it. My girlfriend disagrees.
 ![SASS](https://img.shields.io/badge/SASS-black?style=for-the-badge&logo=sass)&nbsp;&nbsp;
 ![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)&nbsp;&nbsp;
 ![Git](https://img.shields.io/badge/git-black?style=for-the-badge&logo=git)&nbsp;&nbsp;
-![Styled Components](https://img.shields.io/badge/-styledcomponents-black?logo=styledcomponents&style=styled-components)&nbsp;&nbsp;
-![React](https://img.shields.io/badge/-React-black?logo=react&style=react)&nbsp;&nbsp;
-![React](https://img.shields.io/badge/-Styled-components-black?logo=react&style=react)&nbsp;&nbsp;
-![Gatsby](https://img.shields.io/badge/with%20a%20logo-grey?style=for-the-badge&logo=gatsby)&nbsp;&nbsp;
-![GraphQl](https://img.shields.io/badge/with%20a%20logo-grey?style=for-the-badge&logo=graphql)&nbsp;&nbsp;
+![Styled Components](https://img.shields.io/badge/styledcomponents-black?style=for-the-badge&logo=styled-components)&nbsp;&nbsp;
+![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)&nbsp;&nbsp;
+![Gatsby](https://img.shields.io/badge/gatsby-black?style=for-the-badge&logo=gatsby)&nbsp;&nbsp;
+![GraphQl](https://img.shields.io/badge/graphql-black?style=for-the-badge&logo=graphql)&nbsp;&nbsp;
 
 <br />
 
